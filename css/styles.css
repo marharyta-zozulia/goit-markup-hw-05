@@ -676,3 +676,19 @@ display: flex;
     padding-right: 24px;
     margin-bottom: 18px;
 }
+
+
+.modal-field-wrap{
+
+}
+
+.contacts-form-wrap{
+    position: relative;
+
+}
+.contacts-form-icon{
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    
+}
