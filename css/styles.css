@@ -820,7 +820,7 @@ border-color: #4d5ae5;
 
 
 .modal-field-wrap-textarea{
-
+  margin-bottom: 16px;
 }
 
 .user-comment{
@@ -868,7 +868,7 @@ border-color: #4d5ae5;
     justify-content: center;
     margin-right: 8px;
     fill: transparent;
-    transition: transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     
 
