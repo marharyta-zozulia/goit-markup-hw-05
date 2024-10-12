@@ -770,7 +770,7 @@ pointer-events: auto;
     height: 40px;
     padding-left: 24px;
     padding-right: 24px;
-    margin-bottom: 18px;
+    
     border: 1px solid rgba(46, 47, 66, 0.4);
     padding-left: 38px;
     font-size: 12px;
@@ -820,7 +820,7 @@ border-color: #4d5ae5;
 
 
 .modal-field-wrap-textarea{
-margin-bottom: 24px
+
 }
 
 .user-comment{
@@ -852,7 +852,7 @@ margin-bottom: 24px
         font-size: 12px;
         line-height: 1.17;
         letter-spacing: 0.04em;
-        display: flex;
+        
         align-items: center;
         gap: 8px;
         color: #8e8f99;
@@ -868,8 +868,7 @@ margin-bottom: 24px
     justify-content: center;
     margin-right: 8px;
     fill: transparent;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
-    border 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     
 
@@ -881,7 +880,7 @@ background-color: #404bbf;
 }
 
 .modal-field-wrap-checkbox{
-   margin-bottom: 16px; 
+   margin-bottom: 24px; 
 }
 
 .modal-checkbox-link {
